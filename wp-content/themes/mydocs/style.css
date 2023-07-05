@@ -1,0 +1,33 @@
+/*!
+Theme Name: mydocs
+Theme URI: http://underscores.me/
+Author: Underscores.me
+Author URI: http://underscores.me/
+Description: Description
+*/
+
+/* Alignments img- */
+img.alignright { float: right; margin: 0 1.5em 1.5em 1.5em; }
+img.alignleft { float: left; margin: 0 1.5em 1.5em 0; }
+img.aligncenter { display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;}
+.alignright { float: right;margin-left: 1.5em;margin-bottom: 1.5em; }
+.alignleft { float: left; margin-right: 1.5em; margin-bottom: 1.5em;}
+.aligncenter { display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em; }
+
+.copyriht p {
+    font-size: 11px;
+    color: #fff;margin-bottom: 0;
+}
+.conb p{font-size: 18px;
+    color: #fff;
+    font-weight: 400;}
+#primary-menu li.current-menu-item a {
+    background: #00a3c8;
+    color: #fff;
+}
+.tnp-widget-minimal input.tnp-submit {background-color: #00a3c8!important;}
+.tnp-widget-minimal input.tnp-submit:hover{background:#007995!important;}
+.tnp-widget-minimal input.tnp-email{margin-bottom:5px!important;}
+
+
+
